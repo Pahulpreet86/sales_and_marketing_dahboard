@@ -1,6 +1,6 @@
 # Sales and Marketing Dashboard
 ![Sales and Marketing Dashboard](https://github.com/Pahulpreet86/sales_and_marketing_dashboard/blob/master/cohort.gif) 
-#### Cohort Analysis        
+##### Cohort Analysis        
 Cohort Analysis  is done by companies to get a better understanding of the behaviour of customers or users. Cohort refers to a group of people in a study that share some common characteristics such as the same date, week, month or year of acquisition by the company. (cohort is based on the same month of purchase from the retail store with customer retention rate denoted by the color intensity and average customer lifetime values specified in the rectangular boxes)     
 
 ##### Customer Retention Rate
